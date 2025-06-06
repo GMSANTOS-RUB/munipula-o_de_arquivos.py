@@ -1,0 +1,5 @@
+arquivo = open('arquivo.txt', 'w')
+arquivo.write('ola, mundo! \n')
+arquivo.write('este e um arquivo de texto.\n')
+arquivo.write('estamos aprendendo a manipular arquivos em python.\n')
+arquivo.close()
